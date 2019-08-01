@@ -1,0 +1,1685 @@
+[
+  {
+    "name": "comrade001",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "give another card stealth for 1 turn "
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "comrade002",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "give another card charge "
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "comrade003",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "put a card back into the owners hand  "
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "comrade004",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "draw a card "
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "comrade005",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "cast a random spell that costs 2 or less from your deck "
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Class card001",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": true
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": null
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 1
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "class card002",
+    "properties": [
+      {
+        "type": "charge",
+        "value": true
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Class Card003",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": true
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 1
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Class Card004",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": true
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "kill a card your pick"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Class Card005",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "battle cry summon a comrade"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 5
+      },
+      {
+        "type": "atack",
+        "value": 2
+      },
+      {
+        "type": "hp",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Class Card006",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": " do 3 damage to the opponents hero"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": 3
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Class Card007",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "force a opponents card to attack another card your pick for both"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 2
+      },
+      {
+        "type": "hp",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Class Card008",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "deal 1 damage opon being hit return to your hand"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+
+  {
+    "name": "Class Card009",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": "on atack do 3 damage over the next 3 turns"
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": 3
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+
+  {
+    "name": "Class Card010",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": "on atack do 4 damage over the next 2 turns"
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 5
+      },
+      {
+        "type": "atack",
+        "value": 4
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Class Card011",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": "on attack cleave each card next to the attacked card"
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Class Card012",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": "explode get battery asid on all of the enemy do 2 damage over the next 2 turns"
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": 2
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Class Card013",
+    "properties": [
+      {
+        "type": "charge",
+        "value": true
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": true
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": 3
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Class Card014 spell",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "if you have no minions on the board summon 2 comrads and give them charge"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 5
+      },
+      {
+        "type": "atack",
+        "value": null
+      },
+      {
+        "type": "hp",
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "Class Card015 spell",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "get a comrade and play it"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": null
+      },
+      {
+        "type": "hp",
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "Class Card016 spell",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": " human virus make human card sick over the next 2 turns do random damage to the card / chance to back fire and make them stronger (low chance)"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": null
+      },
+      {
+        "type": "hp",
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "Class Card017 spell",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "replace one of your opponents cards with a dummy they don’t know until they try and attack with it"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": null
+      },
+      {
+        "type": "hp",
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "Class Card018 spell",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "play a card from your grave yard your opponent picks 1 of 3"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": null
+      },
+      {
+        "type": "hp",
+        "value": null
+      }
+    ]
+  },
+  {
+    "name": "Common Card001",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "mech"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": 3
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Common Card002",
+    "properties": [
+      {
+        "type": "charge",
+        "value": true
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 2
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Common Card003",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": "when you play a card gain 1 ata"
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": 2
+      },
+      {
+        "type": "hp",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Common Card004",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": 4
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Common Card005",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "summon a 1/1 mech"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Common Card006",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "emp all mechs cant attack next turn"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": 4
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Common Card006",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Common Card007",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "both players summon a random card from there hand"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 1
+      },
+      {
+        "type": "atack",
+        "value": 0
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Common Card008",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "human"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 3
+      },
+      {
+        "type": "atack",
+        "value": 3
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Common Card009",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "mech"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 2
+      },
+      {
+        "type": "hp",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Common Card010",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "human"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 2
+      },
+      {
+        "type": "hp",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Common Card011",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "human"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 1
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Common Card012",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "mech"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 1
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Common Card013",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "human"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": 4
+      },
+      {
+        "type": "hp",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "name": "Common Card014",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "mech"
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 4
+      },
+      {
+        "type": "atack",
+        "value": 4
+      },
+      {
+        "type": "hp",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "name": "Common Card00",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": "human"
+      },
+      {
+        "type": "on Death",
+        "value": "death call another 2/2 human to your aid"
+      },
+      {
+        "type": "cost",
+        "value": 5
+      },
+      {
+        "type": "atack",
+        "value": 4
+      },
+      {
+        "type": "hp",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "",
+    "properties": [
+      {
+        "type": "charge",
+        "value": false
+      },
+      {
+        "type": "stealth",
+        "value": false
+      },
+      {
+        "type": "sneak atack",
+        "value": false
+      },
+      {
+        "type": "DoT",
+        "value": null
+      },
+      {
+        "type": "battle Cry",
+        "value": ""
+      },
+      {
+        "type": "on Death",
+        "value": null
+      },
+      {
+        "type": "cost",
+        "value": 2
+      },
+      {
+        "type": "atack",
+        "value": 1
+      },
+      {
+        "type": "hp",
+        "value": 1
+      }
+    ]
+  }
+]
